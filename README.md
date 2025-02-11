@@ -1,4 +1,4 @@
-# -Embedded-Firmware-Developer
+
 #include <stdio.h>
 #include <string.h>
 #include <sys/stat.h>
